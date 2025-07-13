@@ -17,7 +17,7 @@ A simple sentiment analysis project built using Hugging Face Transformers and St
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/llm.git
+   git clone https://github.com/subham-sharma21/Sentiment-Analysis.git
    cd llm
    ```
 2. **(Optional) Create a Virtual Environment**
