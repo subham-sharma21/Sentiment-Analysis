@@ -47,6 +47,10 @@ streamlit run main3.py
 
 Open [http://localhost:8501](http://localhost:8501) in your browser.
 
+**Example Output:**
+
+![Sentiment Analysis Output](data/image.png)
+
 ### 2. Command Line Tool
 
 Run the command line tool:
@@ -77,7 +81,7 @@ main2.py       # Command line interactive sentiment analysis
 main3.py       # Streamlit web app for sentiment analysis
 requirements.txt
 README.md
-data/          # Place your CSV files here (e.g., reviews.csv)
+data/          # Place your CSV files and images here (e.g., reviews.csv, example_output.png)
 ```
 
 ---
@@ -89,6 +93,12 @@ See `requirements.txt`:
 - streamlit
 - transformers
 - pandas
+
+---
+
+## 📝 License
+
+MIT License
 
 ---
 
